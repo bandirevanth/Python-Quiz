@@ -1,2 +1,2 @@
 # Python-Quiz
-A quiz program for Python beginners.
+A basic quiz program for Python beginners.
